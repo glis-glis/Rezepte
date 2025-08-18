@@ -1,6 +1,7 @@
 # Foccacia
 
 ## Teig
+|        |             |
 |--------|-------------|
 | 3.5l   | Wasser      |
 | 500g   | Weissmehl   |
@@ -9,6 +10,7 @@
 | 1 Pack | Trockenhefe |
 
 ## Lake
+|     |        |
 |-----|--------|
 | 3EL | Wasser |
 | 3EL | ÖL     |
