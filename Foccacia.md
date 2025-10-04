@@ -1,5 +1,7 @@
 # Foccacia
 
+Gesamtzeit: 3h
+
 ## Teig
 |        |             |
 |--------|-------------|
